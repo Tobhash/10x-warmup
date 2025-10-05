@@ -14,7 +14,10 @@ Pierwsze kroki w [10xDevs.pl](https://10xdevs.pl)
 - - Listę serwerów tutaj: [https://github.com/mcp?utm_source=vscode-website&utm_campaign=mcp-registry-server-launch-2025](https://github.com/mcp?utm_source=vscode-website&utm_campaign=mcp-registry-server-launch-2025)
 - Pracując z GitHub Copilot rozważ wyłączenie plików z indeksowania. Instrukcję znajdziesz tutaj: [https://docs.github.com/en/copilot/how-tos/configure-content-exclusion/exclude-content-from-copilot#configuring-content-exclusion-for-your-repository](https://docs.github.com/en/copilot/how-tos/configure-content-exclusion/exclude-content-from-copilot#configuring-content-exclusion-for-your-repository)
 - Używaj plików konfiguracyjnych do promptowania Copilota [https://code.visualstudio.com/docs/copilot/customization/prompt-files](https://code.visualstudio.com/docs/copilot/customization/prompt-files)
+- Instrukcje niestandardowe(Custom instructions) [https://docs.github.com/en/copilot/how-tos/configure-custom-instructions/add-repository-instructions?tool=vscode](https://docs.github.com/en/copilot/how-tos/configure-custom-instructions/add-repository-instructions?tool=vscode)
 - **Repozytorium wspaniałych promptów i instrukcji do VS Code** [https://github.com/github/awesome-copilot/tree/main?tab=readme-ov-file](https://github.com/github/awesome-copilot/tree/main?tab=readme-ov-file)
+- **GitHub Copilot CLI:** [https://github.com/github/copilot-cli](https://github.com/github/copilot-cli)
+- Copilot VS Code cheatsheet [https://code.visualstudio.com/docs/copilot/reference/copilot-vscode-features](https://code.visualstudio.com/docs/copilot/reference/copilot-vscode-features)
 
 ## Skróty dla uczestnika
 
