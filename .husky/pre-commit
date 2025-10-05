@@ -1,3 +1,4 @@
 #!/usr/bin/env sh
 
+npm run format
 npm run format:check
